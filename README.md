@@ -1,4 +1,4 @@
-Extract images.zip to use
+Extract `data\images.zip` to use
 
 ways to implement:
 - Use pretrained models to generate embeddings + Nearest Neighbor Search
